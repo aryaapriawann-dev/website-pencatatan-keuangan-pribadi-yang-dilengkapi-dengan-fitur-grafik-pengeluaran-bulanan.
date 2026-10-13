@@ -1,0 +1,6 @@
+{
+  "name": "BukuKasKu - Pencatatan Keuangan & Grafik Pengeluaran",
+  "description": "Aplikasi pencatatan keuangan pribadi modern dengan visualisasi grafik pengeluaran bulanan, analisis arus kas, dan manajemen anggaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
